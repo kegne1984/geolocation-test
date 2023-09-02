@@ -1,2 +1,2 @@
-# geolocation-test
-this project is devolopped by java to make the first part of geolocation
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
